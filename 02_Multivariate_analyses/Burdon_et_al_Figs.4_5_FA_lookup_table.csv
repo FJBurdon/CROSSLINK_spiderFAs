@@ -1,0 +1,39 @@
+FA,Short_name_2,FA_1,FA_2,Resource,Specific_PUFA,Long_name
+FA1,C10.0,ShortSAFA,SAFA,NA,NA,"Decanoic acid, methyl ester, n-"
+FA2,C11.0,ShortSAFA,SAFA,NA,NA,Undecanoic acid methyl ester
+FA3,C12.0,ShortSAFA,SAFA,NA,NA,"Dodecanoic acid methyl ester, n-"
+FA4,C13.0,ShortSAFA,SAFA,NA,NA,"Tridecanoic acid methyl ester, n-"
+FA5,C14.1n-5,MUFA,MUFA,NA,NA,"Tetradecenoic acid methyl ester, 9-(Z)-, n-"
+FA6,C14.0,ShortSAFA,SAFA,NA,NA,"Tetradecanoic acid methyl ester, n-"
+FA7,C15.1n-5,MUFA,MUFA,NA,NA,"Pentadecenoic acid methyl ester, 10-(Z)-, n-"
+FA8,C15.0,ShortSAFA,SAFA,Bacteria,NA,"Pentadecanoic acid methyl ester, n-"
+FA9,C16.1n-7,MUFA,MUFA,Algae,NA,Methyl cis-9-hexadecanoate
+FA10,C16.0,ShortSAFA,SAFA,Algae,NA,"Hexadecanoic acid methyl ester, n-"
+FA11,C17.1n-7,MUFA,MUFA,Bacteria,NA,Cis-10-Heptadecenoic acid methyl ester
+FA12,C17.0,ShortSAFA,SAFA,Bacteria,NA,Methyl heptadecanoate
+FA13,C18.3n-3,omega3,PUFA,Algae,ALA,"Octadecatrienoic acid methylester, 9,12,15-(Z,Z,Z)-, n-"
+FA14,C18.2n-6,omega6,PUFA,Algae,LIN,"Octadecadienoic acid methyl ester, 9,12-(Z,Z)-, n- "
+FA15,C18.1n-9,MUFA,MUFA,Algae,NA,Methyl cis-9-octadecenoate
+FA16,C18.0,ShortSAFA,SAFA,Fungi,NA,"Octadecanoic acid methyl ester, n-"
+FA17,C20.4n-6,omega6,PUFA,Algae,ARA,"5,8,11,14-Eicosatetraenoic acid, methyl ester, (all-Z)-"
+FA18,C20.5n-3,omega3,PUFA,Algae,EPA,"cis-5,8,11,14,17-Eicosapentaenoic acid, methyl ester"
+FA19,C20.3n-3,omega3,PUFA,Algae,NA,"Eicosatrienoic acid methylester, 11,14,17-(Z,Z,Z)-, n-"
+FA20,C20.2n-6,omega6,PUFA,Algae,NA,"Eicosadienoic acid methyl ester, 11,14-(Z,Z)-, n-"
+FA21,C20.1n-9,MUFA,MUFA,NA,NA,"cis-11-Eicosenoic acid, methyl ester"
+FA22,C20.0,LongSAFA,SAFA,Terrestrial,NA,"Eicosanoic acid methyl ester, n-"
+FA23,C21.0,LongSAFA,SAFA,NA,NA,"Heneicosanoic acid methyl ester, n-"
+FA24,C22.6n-3,omega3,PUFA,Algae,DHA,"Docosahexaenoic acid methyl ester, 4,7,10,13,16,19-(Z,Z,Z,Z,Z,Z)-, n-"
+FA25,C22.2n-6,omega6,PUFA,Algae,NA,"Docosadienoic acid methyl ester, 13,16-(Z,Z)-, n-"
+FA26,C22.1n-9,MUFA,MUFA,NA,NA,"Docosenoic acid methyl ester, 13-(Z)-"
+FA27,C22.0,LongSAFA,SAFA,Terrestrial,NA,"Behenic acid methyl ester, n-"
+FA28,C23.0,LongSAFA,SAFA,Terrestrial,NA,"Tricosanoic acid methyl ester, n-"
+FA29,C24.1n-9,MUFA,MUFA,Algae,NA,Nervonic acid methyl ester 
+FA30,C24.0,LongSAFA,SAFA,Terrestrial,NA,"Lignoceric acid methyl ester, n-"
+FA31,iC15.0,BAFA,BAFA,Bacteria,NA,Methyl 13-methyltetradecanoate
+FA32,aC15.0,BAFA,BAFA,Bacteria,NA,Methyl 12-methyltetradecanoate
+FA33,iC16.0,BAFA,BAFA,Bacteria,NA,Methyl 14-methylpentadecanoate
+FA34,iC17.0,BAFA,BAFA,Bacteria,NA,Methyl 15-methylhexadecanoate
+FA35,cyclo-17,BAFA,BAFA,Bacteria,NA,"Methyl cis-9,10-methylenehexadecanoate"
+FA36,cyclo-19,BAFA,BAFA,Bacteria,NA,"Methyl cis-9,10-methyleneoctadecanoate"
+FA37,C19.0,BAFA,BAFA,Bacteria,NA,Methyl nonadecanoate
+FA38,C18.1n-9t,MUFA,MUFA,NA,NA,Methyl trans-9-octadecenoate
